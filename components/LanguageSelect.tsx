@@ -46,10 +46,12 @@ const languages = [
   { value: 'PHP', label: 'PHP' },
   { value: 'Ruby', label: 'Ruby' },
   { value: 'Swift', label: 'Swift' },
+  { value: 'SwiftUI', label: 'SwiftUI' },
   { value: 'Kotlin', label: 'Kotlin' },
   { value: 'R', label: 'R' },
   { value: 'Objective-C', label: 'Objective-C' },
   { value: 'Perl', label: 'Perl' },
+  { value: 'SAS', label: 'SAS' },
   { value: 'Scala', label: 'Scala' },
   { value: 'Dart', label: 'Dart' },
   { value: 'Rust', label: 'Rust' },
@@ -71,4 +73,5 @@ const languages = [
   { value: 'HTML', label: 'HTML' },
   { value: 'NoSQL', label: 'NoSQL' },
   { value: 'Natural Language', label: 'Natural Language' },
+  { value: 'CoffeeScript', label: 'CoffeeScript' },
 ];
